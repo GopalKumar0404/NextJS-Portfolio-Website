@@ -37,7 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Let's work together to transform your ideas into robust,
+            Let&apos; work together to transform your ideas into robust,
             high-quality software solutions. Feel free to explore my portfolio
             to see some of my recent projects and get in touch to discuss how I
             can help you achieve your development goals.
